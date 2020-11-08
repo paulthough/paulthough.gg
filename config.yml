@@ -1,0 +1,8 @@
+title: paulthough.gg
+email: paulthough@paulthough.gg
+baseurl: ""
+url: "https://paulthough.gg"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
